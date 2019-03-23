@@ -11,6 +11,7 @@
         "first_name": "İsim",
         "last_name": "Soyad",
         "save_button": "Kaydet"
-      }
+      },
+       "lang_types":["en", "tr"]
    
 }
