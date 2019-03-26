@@ -1,16 +1,16 @@
 {
   
       "en": {
-        "phone_number": "Phone number",
-        "first_name": "First Name",
-        "last_name": "Last Name",
-        "save_button": "Save"
+        "phone_number": "API-Phone Number",
+        "first_name": "API-First Name",
+        "last_name": "API-Last Name",
+        "save_button": "API-Save"
       },
       "tr": {
-        "phone_number": "Telefon numarası",
-        "first_name": "İsim",
-        "last_name": "Soyad",
-        "save_button": "Kaydet"
+        "phone_number": "API-Telefon numarası",
+        "first_name": "API-İsim",
+        "last_name": "API-Soyad",
+        "save_button": "API-Kaydet"
       },
        "lang_types":["en", "tr"]
    
